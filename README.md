@@ -48,7 +48,6 @@ The objective was to perform data cleaning, exploratory data analysis (EDA), and
 ---
 
 ## 📂 Project Structure
-## 📂 Project Structure
 
 Mining_Accident_Data_Analysis  
 │  
@@ -59,3 +58,4 @@ Mining_Accident_Data_Analysis
 │   ├── accident_types.png  
 │   ├── ug_location.png  
 │   ├── year_trend.png  
+
